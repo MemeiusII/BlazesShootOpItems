@@ -1,0 +1,6 @@
+name: BlazesShootOpItems
+main: me.EthanBilbrey.BlazesShootOpItems.Main
+version: 1.0
+api-version: 1.16
+author: Ethan Bilbrey
+description: Blazes shoot op items
